@@ -14,18 +14,19 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"medal_width"		"15"
-		"avatar_width"		"57"	[$WIN32]
-		"name_width"		"85"	[$WIN32]	
-		"name_width_minmode""65"	[$WIN32]		
-		"status_width"		"15"	[$WIN32]
-		"nemesis_width"		"15"	[$WIN32]
-		"class_width"		"15"	[$WIN32]
-		"score_width"		"25"
+		"avatar_width"		"57"
+		"name_width"		"85"
+		"name_width_minmode""65"
+		"status_width"		"15"
+		"nemesis_width"		"15"
+		"class_width"		"20"
+		"score_width"		"30"
 		"score_width_lodef"	"35"
 		"score_width_hidef"	"50"
-		"ping_width"		"23"	[$WIN32]
+		"ping_width"		"25"
 		"stats_width"		"30"
 		"killstreak_width"	"20"
+		"spacer"			"5"
 	}
 	"BlueScoreBG"
 	{
