@@ -16,7 +16,7 @@
 		"nemesis_width"		"15"
 		"class_width"		"15"
 		"score_width"		"25"
-		"ping_width"		"23"
+		"ping_width"		"20"
 	}
 	"BlueScoreBG"
 	{
